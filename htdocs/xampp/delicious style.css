@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{font-family:Arial, Helvetica, sans-serif; 
+		color:#C00;
+		text-align:center;
+		}
+		
+	p.changefont{
+			color: #00F;
+			text-align:justify;
+			font-family:"Comic Sans MS", cursive;
+		}
+		
+		body {
+			background-color:#F00;
+		}
+h4 {
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	color: #03F;
+	text-decoration: underline;
+}
+#main_title{
+	text-align:left;
+	color:#FF0;
+}
