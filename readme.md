@@ -1,2 +1,2 @@
-# Web-Project-Online_Restaurant
-My Web Project on Restaurant Order System
+# Web Project - Online Restaurant
+My Web Project on `Online Restaurant Order System`
